@@ -1,6 +1,6 @@
 {
   "name": "ts-tiny-invariant",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stricter version of tiny-invariant",
   "main": "dist/umd/index.js",
   "module": "dist/index.js",
