@@ -6,13 +6,8 @@
 [![typings included](https://img.shields.io/badge/typings-included-brightgreen.svg?t=1495378566925)](dist/index.d.ts)
 [![npm](https://img.shields.io/npm/l/express.svg?t=1495378566925)](https://www.npmjs.com/package/ts-tiny-invariant)
 
-Stricter version of [tiny-invariant](https://github.com/alexreardon/tiny-invariant)
+Stricter version of [tiny-invariant](https://github.com/alexreardon/tiny-invariant) that accepts only `boolean` condition
 
 ## Installation
 
 `$ npm i ts-tiny-invariant`
-
-## Features
-
-- accepts only `boolean` condition
-- returns `never`, so can be used in any return statement without type checking errors
