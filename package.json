@@ -1,6 +1,6 @@
 {
   "name": "ts-tiny-invariant",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Stricter version of tiny-invariant",
   "sideEffects": false,
   "main": "./dist/cjs/index.js",
