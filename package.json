@@ -1,6 +1,6 @@
 {
   "name": "ts-tiny-invariant",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Stricter version of tiny-invariant",
   "sideEffects": false,
   "types": "./dist/index.d.ts",
